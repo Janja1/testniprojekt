@@ -1,0 +1,155 @@
+.header{
+    width:100%;
+    height:40px;
+    position:fixed;
+    display:inline-block;
+    top:0;
+    left:0;
+    font-size:18px;
+    margin: 5px auto;
+}
+.prijava
+    {padding: 0px 10px 0px 5px;
+    float:right;
+    postion:relative;
+    color:white;
+    background-color:dodgerblue;
+    font-size:18px;
+    text-decoration:none;
+    }
+.iskanje
+    {text-decoration:none;
+}
+
+.boogle{
+    padding: 0px 5px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+    }
+
+.booglemail { 
+    padding: 0px 5px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+}
+.slike {
+    padding: 0px 5px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+    
+}
+.options {
+    padding: 0px 5px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+
+        
+}
+
+.one {
+    height:150px;
+    width:150px;
+    background-color:white;
+    margin: 180px auto;
+}
+    
+.search {
+    background-color:white;
+    height:40px;
+    width:500px;
+    font-size:30px;
+    border: solid 1px black;
+    margin:auto -100px;
+
+}
+.isci{ 
+    background-color:beige;
+    margin-left: auto;
+    margin-right:auto; 
+    font-size:10px;
+    width:100px;
+    margin: 10px auto auto 140px;
+    pading: 10px 5px 5px 5px;
+    
+}
+    
+.block_long {
+    width:100%;
+    background-color:lightgray;
+    height:50px;
+    position: absolute;
+    display:block;
+    bottom: 0;
+    pading: 10px 5px 5px 5px;
+    left: 0;
+    padding-top:20px;
+    
+}
+.b {
+    color:red;
+    font-size: 102px;
+    
+}
+.oo {
+    color:yellow;
+    font-size:102px;
+}
+
+.oglas{
+    padding: 0px 5px 0px 5px;
+    float:left;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+    }
+.posel {
+    padding: 0px 5px 0px 5px;
+    float:left;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+}
+.predstavitev {
+        padding: 0px 5px 0px 5px;
+    float:left;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+}
+    
+.zasebnost {
+        padding: 0px 5px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+}
+.pogoji {
+        padding: 0px 5px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+}
+.nastavitve {
+        padding: 0px 5px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+}
+
+.uporabi {
+        padding: 0px 10px 0px 5px;
+    float:right;
+    postion:relative;
+    text-decoration:none;
+    color:black;
+}
